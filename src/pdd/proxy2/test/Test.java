@@ -13,10 +13,10 @@ public class Test {
 		me.add("Hello World");
 		me.add("Today I worked 18 hours");
 		
-		MySpaceBook tom = new MySpaceBook();
+		/*MySpaceBook tom = new MySpaceBook();
 		tom.poke("Judith");
 		tom.add("Judith", "Poor you");
-		tom.add("Off to see the Lion King tonight");
+		tom.add("Off to see the Lion King tonight");*/
 	}
 
 }

@@ -1,12 +1,12 @@
 package pdd.proxy2.proxy;
 
 import java.util.Scanner;
-
+import pdd.proxy2.entity.ICommunication;
 import pdd.proxy2.entity.SpaceBook;
 
 public class MySpaceBook {
 	
-	private SpaceBook mySpaceBook;
+	private ICommunication mySpaceBook;
 	private String password;
 	private String name;
 	private boolean loggedIn = false;
